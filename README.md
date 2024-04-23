@@ -67,6 +67,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 **Deploy done on github opages** using https://blog.logrocket.com/deploying-react-apps-github-pages/
 "We can deploy our React application by simply running: npm run deploy. This will create a bundled version of our React application and push it to a gh-pages branch in our remote repository on GitHub."
 
+Deployed on https://dbk200.github.io/react-pizza-menu/
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
